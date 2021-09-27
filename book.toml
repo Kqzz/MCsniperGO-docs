@@ -1,0 +1,6 @@
+[book]
+authors = ["Kqzz"]
+language = "en"
+multilingual = false
+src = "src"
+title = "MCsniperGO Docs"
