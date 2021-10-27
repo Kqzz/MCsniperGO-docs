@@ -2,8 +2,8 @@
 
 - [Introduction](./README.md)
 - [Installation](install/README.md)
-    - [Windows](install/Windows.md)
+    - [Windows](install/windows.md)
     - [Linux](install/linux.md)
-    - [MacOS](install/macOS.md)
+    - [MacOS](install/macos.md)
 - [Accounts](accounts.md)
 
